@@ -1,0 +1,20 @@
+{
+  "name": "ultimate-auth-facebook",
+  "version": "0.1.0",
+  "description": "Facebook auth plugin for `ultimate-seed`.",
+  "license": "MIT",
+  "author": "Pilwon Huh <pilwon@gmail.com>",
+  "homepage": "https://github.com/pilwon/node-ultimate-auth-facebook",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pilwon/node-ultimate-auth-facebook.git"
+  },
+  "keywords": [
+    "ultimate",
+    "auth",
+    "facebook"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {}
+}
