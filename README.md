@@ -1,6 +1,6 @@
 # ultimate-auth-facebook
 
-**Facebook auth** plugin for [ultimate-seed](https://github.com/pilwon/node-ultimate-seed).
+**Facebook Auth** plugin for [ultimate-seed](https://github.com/pilwon/node-ultimate-seed).
 
 ## **★ This project is under development ★**
 
